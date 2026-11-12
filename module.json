@@ -1,0 +1,34 @@
+{
+  "id": "tile-combiner",
+  "title": "Tile Combiner",
+  "description": "Merges multiple selected scene tiles into one image tile by baking them, including Token Magic FX filter results, into a single PNG. Built for Foundry VTT V14.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "YOUR NAME",
+      "url": "https://github.com/YOUR-GITHUB-USERNAME"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.370"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "relationships": {
+    "recommends": [
+      {
+        "id": "tokenmagic",
+        "type": "module",
+        "reason": "Lets you bake Token Magic FX filter effects on tiles into the combined image."
+      }
+    ]
+  },
+  "url": "https://github.com/YOUR-GITHUB-USERNAME/tile-combiner",
+  "manifest": "https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/releases/latest/download/module.json",
+  "download": "https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/releases/download/v1.0.0/module.zip",
+  "bugs": "https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/issues",
+  "changelog": "https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/blob/main/CHANGELOG.md",
+  "license": "https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/blob/main/LICENSE"
+}
