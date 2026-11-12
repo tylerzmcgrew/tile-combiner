@@ -19,7 +19,7 @@ A Foundry VTT module that merges several selected tiles into **one** image tile.
 In Foundry, go to **Add-on Modules → Install Module** and paste this into **Manifest URL**:
 
 ```
-https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/releases/latest/download/module.json
+https://github.com/tylerzmcgrew/tile-combiner/releases/latest/download/module.json
 ```
 
 Then enable **Tile Combiner** in your world under **Manage Modules**.
@@ -48,7 +48,7 @@ Then enable **Tile Combiner** in your world under **Manage Modules**.
 
 ## Support
 
-Open an issue at <https://github.com/YOUR-GITHUB-USERNAME/tile-combiner/issues>. Please include your Foundry version, the list of active modules, and any errors from the browser console (F12).
+Open an issue at <https://github.com/tylerzmcgrew/tile-combiner/issues>. Please include your Foundry version, the list of active modules, and any errors from the browser console (F12).
 
 ## License
 
